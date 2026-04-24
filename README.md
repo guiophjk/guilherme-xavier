@@ -45,7 +45,8 @@ Estou em um processo constante de aprimoramento técnico. Atualmente, dedico a m
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/guilherme-xavier-231564247/?skipRedirect=true" target="_blank">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/
+guilherme-xavier-231564247" target="_blank">
     <img src="https://img.shields.io/badge/Connect-LinkedIn-7e22ce?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
